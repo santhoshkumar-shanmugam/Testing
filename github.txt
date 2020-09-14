@@ -1,1 +1,1 @@
-this is santhosh
+this is santhosh.as i tell you in the chapter spring boot is a famous one to resolve all configuration problems in monolithick appalication.
